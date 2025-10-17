@@ -5,5 +5,4 @@ cfcₙ
 continuousFunctionalCalculus
 IsStarNormal.instContinuousFunctionalCalculus
 IsSelfAdjoint.instContinuousFunctionalCalculus
-foo
 Nonneg.instContinuousFunctionalCalculus
