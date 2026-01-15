@@ -3,6 +3,6 @@
 .lake/*
 Ignore/
 web.paux
-ForkLeanOA/LeanOA/blueprint/print/
-ForkLeanOA/LeanOA/blueprint/web/
+/blueprint/print/
+/blueprint/web/
 .venv
