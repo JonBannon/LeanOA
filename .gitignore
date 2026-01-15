@@ -2,7 +2,7 @@
 /lake-packages/*
 .lake/*
 web.paux
-blueprint/print/
-blueprint/web/
+blueprint/print
+blueprint/web
 .venv
 Ignore/
